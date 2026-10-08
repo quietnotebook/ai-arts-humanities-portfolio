@@ -4,5 +4,5 @@ This repository is where I collect my work from the course. I want to learn how 
 
 ## My goals
 - Learn **GitHub** basics
-- Learn to read Python code
+- Learn to *read* Python code
 - Understand how machine learning works
